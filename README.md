@@ -1,22 +1,23 @@
-#📊 E-Commerce Sales Analysis (Excel)
+# 📊 E-Commerce Sales Analysis (Excel)
 
-##🚀 Project Overview
+## 🚀 Project Overview
 
-This project focuses on analyzing an E-commerce sales dataset using Microsoft Excel to uncover meaningful business insights. The analysis helps understand sales performance, customer behavior, regional trends, and profitability factors to support data-driven decision-making.
-
----
-
-##🛠️ Tools Used
-
-Microsoft Excel
-Pivot Tables
-Charts & Graphs
-Dashboard Creation
+This project analyzes an E-commerce sales dataset using **Microsoft Excel** to uncover meaningful business insights. The goal is to understand sales performance, customer behavior, regional trends, and profitability factors to support **data-driven decision-making**.
 
 ---
 
-##📂 Project Structure
+## 🛠️ Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Charts & Graphs
+* Dashboard Creation
+
 ---
+
+## 📂 Project Structure
+
+```
 Ecommerce-Sales-Analysis/
 │── data/
 │   └── raw_dataset.xlsx
@@ -28,106 +29,115 @@ Ecommerce-Sales-Analysis/
 │   └── dashboard.png
 │
 │── README.md
----
-
-##📈 Key Insights
-
-🔹 Overall Performance
-
-Total Sales: 485K
-Total Profit: 159K
-Profit Margin: ~33%
-Stable and consistent order volume
+```
 
 ---
 
-###🌍 Regional Analysis
+## 📈 Key Insights
 
-Top Performing Regions: Europe, North America
-Growth Potential: Asia Pacific
-Low Performing: South America, MEA
+### 🔹 Overall Performance
 
-📌 Focus on improving underperforming regions
+* **Total Sales:** 485K
+* **Total Profit:** 159K
+* **Profit Margin:** ~33%
+* Stable and consistent order volume
 
----
-
-###📅 Sales Trend
-
-Sales show an upward trend with fluctuations
-Peak Month: October
-Lowest Month: August
-Strong performance in Q4 (Oct–Dec)
-
-📌 Indicates seasonality in sales
+📌 Indicates a healthy and profitable business
 
 ---
 
-###🛒 Category Analysis
-Technology dominates sales
-Furniture performs moderately
-Office Supplies contribute the least
+### 🌍 Regional Analysis
+
+* **Top Regions:** Europe, North America
+* **Growth Potential:** Asia Pacific
+* **Low Performing:** South America, MEA
+
+📌 Focus needed on improving underperforming regions
+
+---
+
+### 📅 Sales Trend
+
+* Overall upward trend with fluctuations
+* **Peak Month:** October
+* **Lowest Month:** August
+* Strong performance in **Q4 (Oct–Dec)**
+
+📌 Shows clear seasonality in sales
+
+---
+
+### 🛒 Category Analysis
+
+* **Technology** dominates sales
+* Furniture performs moderately
+* Office Supplies contribute the least
 
 📌 Business heavily depends on Technology category
 
 ---
 
-###👥 Customer Segments
+### 👥 Customer Segments
 
-Consumer Segment: ~50% (highest)
-Corporate segment has growth potential
-Home Office is lowest
+* **Consumer Segment:** ~50% (highest contribution)
+* Corporate segment has growth potential
+* Home Office is the lowest
 
-📌 Opportunity to grow in B2B segment
-
----
-
-###🌎 Country Performance
-
-Top Countries: USA, Canada, Mexico
-
-📌 Strong North America dominance
+📌 Opportunity to expand in B2B (Corporate)
 
 ---
 
-###⭐ Customer Satisfaction
+### 🌎 Country Performance
 
-Ratings range between 3.1 – 3.4
-No standout product
+* **Top Countries:** USA, Canada, Mexico
 
-📌 Improve product quality and user experience
+📌 Strong dominance in North America
 
 ---
 
-###💳 Payment Insights
+### ⭐ Customer Satisfaction
 
-Most used: Credit Card & PayPal
-High adoption of digital payments
+* Ratings range between **3.1 – 3.4**
+* No standout product
+
+📌 Need to improve product quality & user experience
+
+---
+
+### 💳 Payment Insights
+
+* Most used: **Credit Card & PayPal**
+* High adoption of digital payments
 
 📌 Customers trust online transactions
 
 ---
 
-###💸 Profit vs Discount
+### 💸 Profit vs Discount
 
-Higher discounts lead to lower profit
+* Higher discounts → Lower profit
 
-📌 Need optimized pricing strategy
-
----
-
-##🧠 Final Conclusion
-
-Business shows strong growth and profitability
-Driven mainly by Technology category and Consumer segment
-Key improvement areas:
-Underperforming regions
-Product quality
-Discount strategy
+📌 Requires optimized pricing strategy
 
 ---
 
-📸 Dashboard Preview
+## 🧠 Final Conclusion
 
+* Business shows **strong growth and profitability**
+* Driven mainly by:
+
+  * Technology category
+  * Consumer segment
+
+**Key Improvement Areas:**
+
+* Underperforming regions
+* Product quality
+* Discount strategy
+
+---
+
+## 📸 Dashboard Preview
 
 ![Dashboard](https://github.com/rohannn16/ecommerce-sales-analysis-excel/blob/main/Images/Screenshot%202026-04-28%20094805.png)
 
@@ -136,18 +146,22 @@ Discount strategy
 
 ---
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 
-Build an interactive dashboard in Power BI
-Perform advanced analysis using Python (Pandas, Matplotlib)
-Apply predictive analysis for forecasting
-📌 Author
-
-Rohan Shah
-Aspiring Data Analyst | Learning SQL, Excel, Power BI & Python
+* Build an interactive dashboard in **Power BI**
+* Perform advanced analysis using **Python (Pandas, Matplotlib)**
+* Apply predictive analytics for forecasting
 
 ---
 
-## ⭐ If you like this project
+## 👤 Author
 
-Give it a star on GitHub ⭐
+**Rohan Shah**
+Aspiring Data Analyst
+Skills: SQL | Excel | Power BI | Python
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **star ⭐ on GitHub**!
