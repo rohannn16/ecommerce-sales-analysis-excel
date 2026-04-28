@@ -162,6 +162,17 @@ Skills: SQL | Excel | Power BI | Python
 
 ---
 
+## 🔗 Connect With Me
+
+* 💼 ![LinkedIn](www.linkedin.com/in/rohankumards16)
+* 💻 ![GitHub]()
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+⭐ Feel free to connect with me for collaborations, opportunities, or discussions on Data Analytics!
+
+
 ## ⭐ Support
 
 If you like this project, consider giving it a **star ⭐ on GitHub**!
