@@ -8,6 +8,7 @@ Microsoft Excel
 Pivot Tables
 Charts & Graphs
 Dashboard Creation
+
 📂 Project Structure
 Ecommerce-Sales-Analysis/
 │── data/
@@ -20,12 +21,14 @@ Ecommerce-Sales-Analysis/
 │   └── dashboard.png
 │
 │── README.md
+
 📈 Key Insights
 🔹 Overall Performance
 Total Sales: 485K
 Total Profit: 159K
 Profit Margin: ~33%
 Stable and consistent order volume
+
 🌍 Regional Analysis
 Top Performing Regions: Europe, North America
 Growth Potential: Asia Pacific
