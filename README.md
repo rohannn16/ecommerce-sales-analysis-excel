@@ -1,12 +1,12 @@
-📊 E-Commerce Sales Analysis (Excel)
+#📊 E-Commerce Sales Analysis (Excel)
 
-🚀 Project Overview
+##🚀 Project Overview
 
 This project focuses on analyzing an E-commerce sales dataset using Microsoft Excel to uncover meaningful business insights. The analysis helps understand sales performance, customer behavior, regional trends, and profitability factors to support data-driven decision-making.
 
 ---
 
-🛠️ Tools Used
+##🛠️ Tools Used
 
 Microsoft Excel
 Pivot Tables
@@ -15,7 +15,7 @@ Dashboard Creation
 
 ---
 
-📂 Project Structure
+##📂 Project Structure
 ---
 Ecommerce-Sales-Analysis/
 │── data/
@@ -30,9 +30,10 @@ Ecommerce-Sales-Analysis/
 │── README.md
 ---
 
-📈 Key Insights
+##📈 Key Insights
 
 🔹 Overall Performance
+
 Total Sales: 485K
 Total Profit: 159K
 Profit Margin: ~33%
@@ -40,7 +41,7 @@ Stable and consistent order volume
 
 ---
 
-🌍 Regional Analysis
+###🌍 Regional Analysis
 
 Top Performing Regions: Europe, North America
 Growth Potential: Asia Pacific
@@ -50,7 +51,7 @@ Low Performing: South America, MEA
 
 ---
 
-📅 Sales Trend
+###📅 Sales Trend
 
 Sales show an upward trend with fluctuations
 Peak Month: October
@@ -61,7 +62,7 @@ Strong performance in Q4 (Oct–Dec)
 
 ---
 
-🛒 Category Analysis
+###🛒 Category Analysis
 Technology dominates sales
 Furniture performs moderately
 Office Supplies contribute the least
@@ -70,7 +71,7 @@ Office Supplies contribute the least
 
 ---
 
-👥 Customer Segments
+###👥 Customer Segments
 
 Consumer Segment: ~50% (highest)
 Corporate segment has growth potential
@@ -80,7 +81,7 @@ Home Office is lowest
 
 ---
 
-🌎 Country Performance
+###🌎 Country Performance
 
 Top Countries: USA, Canada, Mexico
 
@@ -88,7 +89,7 @@ Top Countries: USA, Canada, Mexico
 
 ---
 
-⭐ Customer Satisfaction
+###⭐ Customer Satisfaction
 
 Ratings range between 3.1 – 3.4
 No standout product
@@ -97,7 +98,7 @@ No standout product
 
 ---
 
-💳 Payment Insights
+###💳 Payment Insights
 
 Most used: Credit Card & PayPal
 High adoption of digital payments
@@ -106,7 +107,7 @@ High adoption of digital payments
 
 ---
 
-💸 Profit vs Discount
+###💸 Profit vs Discount
 
 Higher discounts lead to lower profit
 
@@ -114,7 +115,7 @@ Higher discounts lead to lower profit
 
 ---
 
-🧠 Final Conclusion
+##🧠 Final Conclusion
 
 Business shows strong growth and profitability
 Driven mainly by Technology category and Consumer segment
@@ -132,7 +133,11 @@ Discount strategy
 
 
 ![Dashboard](https://github.com/rohannn16/ecommerce-sales-analysis-excel/blob/main/Images/Screenshot%202026-04-28%20094911.png)
-🚀 Future Improvements
+
+---
+
+##🚀 Future Improvements
+
 Build an interactive dashboard in Power BI
 Perform advanced analysis using Python (Pandas, Matplotlib)
 Apply predictive analysis for forecasting
