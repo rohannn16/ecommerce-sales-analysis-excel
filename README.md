@@ -84,11 +84,14 @@ Key improvement areas:
 Underperforming regions
 Product quality
 Discount strategy
+
 📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
 
 ![Dashboard](https://github.com/rohannn16/ecommerce-sales-analysis-excel/blob/main/Images/Screenshot%202026-04-28%20094805.png)
+
+
+![Dashboard](https://github.com/rohannn16/ecommerce-sales-analysis-excel/blob/main/Images/Screenshot%202026-04-28%20094911.png)
 🚀 Future Improvements
 Build an interactive dashboard in Power BI
 Perform advanced analysis using Python (Pandas, Matplotlib)
