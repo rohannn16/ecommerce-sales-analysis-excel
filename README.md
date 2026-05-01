@@ -28,6 +28,8 @@ Ecommerce-Sales-Analysis/
 │── images/
 │   └── dashboard.png
 │
+│── .gitignore
+│── LICENSE
 │── README.md
 ```
 
